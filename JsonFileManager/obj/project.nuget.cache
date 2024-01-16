@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "UXegs7t018VxgOQjT/TAyBjMEsmz1N6u8UciPYQXvOLzfpbxFMP2LiVjMZESymJVYErNxJ3ARtjpqUl5K5x2QQ==",
+  "dgSpecHash": "vI/iJDa67ueHC5Z2DydBh/P4VwFr2iwfqAxJeV5jkZig/o+5sdHv5vx0pxOyN+uoaWnCDSDPUQeGy6mdk8lCLQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\motal\\Projects\\JsonFileManager\\JsonFileManager\\JsonFileManager.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\motal\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
